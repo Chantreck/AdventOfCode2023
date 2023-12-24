@@ -1,7 +1,7 @@
 import kotlin.math.max
 import kotlin.math.min
 
-data class Node(
+private data class Node(
     val current: String,
     val left: String,
     val right: String,
